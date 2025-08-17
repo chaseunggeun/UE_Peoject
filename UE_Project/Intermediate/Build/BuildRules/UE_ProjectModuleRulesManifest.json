@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\UE_Study\\UE_Project\\UE_Project\\Source\\UE_Project\\UE_Project.Build.cs",
+		"C:\\UE_Study\\UE_Project\\UE_Project\\Source\\UE_Project.Target.cs",
+		"C:\\UE_Study\\UE_Project\\UE_Project\\Source\\UE_ProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

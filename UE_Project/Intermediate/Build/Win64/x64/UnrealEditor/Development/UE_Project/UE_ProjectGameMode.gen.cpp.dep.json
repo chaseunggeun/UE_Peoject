@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\ue_study\\ue_project\\ue_project\\intermediate\\build\\win64\\unrealeditor\\inc\\ue_project\\uht\\ue_projectgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\ue_study\\ue_project\\ue_project\\intermediate\\build\\win64\\x64\\ue_projecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\ue_study\\ue_project\\ue_project\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ue_project\\definitions.ue_project.h",
+            "c:\\ue_study\\ue_project\\ue_project\\source\\ue_project\\ue_projectgamemode.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\ue_study\\ue_project\\ue_project\\intermediate\\build\\win64\\unrealeditor\\inc\\ue_project\\uht\\ue_projectgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
